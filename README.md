@@ -335,7 +335,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
-- <img src="https://headlessoracle.com/favicon.ico" height="14"/> [Headless Oracle](https://github.com/LembaGang/headless-oracle-v5) - Ed25519-signed market state oracle for autonomous AI agents. Fail-closed receipts (OPEN/CLOSED/HALTED) for 28 global exchanges. MCP-native, x402-payable.
+- <img src="https://headlessoracle.com/favicon.ico" height="14"/> [Headless Oracle](https://github.com/LembaGang/headless-oracle-v5) - Ed25519-signed market-state attestations (OPEN/CLOSED/HALTED/UNKNOWN) for 28 global exchanges with fail-closed architecture and a hosted MCP endpoint. [![LembaGang/headless-oracle-v5 MCP server](https://glama.ai/mcp/servers/LembaGang/headless-oracle-v5/badges/score.svg)](https://glama.ai/mcp/servers/LembaGang/headless-oracle-v5)
 
 <br />
 
